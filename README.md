@@ -7,7 +7,7 @@ This case study explores the trends, patterns, and key drivers of inflation in I
 ### 1. **CPI Category Contribution Analysis**
 - Grouped detailed CPI categories into broader buckets like **Food**, **Healthcare**, **Essential Services**, etc.
 - Identified the broader categories which has the highest contribution towards CPI Calculations
-- 🔍 *Insight:* 1. The contribution to the overall CPI index is relatively balanced across broader categories, ranging from 12% to 14%.
+- 🔍 *Insight:* The contribution to the overall CPI index is relatively balanced across broader categories, ranging from 12% to 14%.
                   The **Pan, tobacco and Intoxicants(14%)** category had the highest contribution in the CPI calculation.
 
 ---
