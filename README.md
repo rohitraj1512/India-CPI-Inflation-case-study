@@ -1,6 +1,6 @@
 # India-CPI-Inflation-case-study
 
-This case study explores the trends, patterns, and key drivers of inflation in India using Consumer Price Index (CPI) data from 2013 to 2023. The analysis focuses on category-wise contributions, food inflation, the impact of COVID-19, and the role of global oil price fluctuations.
+This case study explores the trends, patterns, and key drivers of inflation in India using Consumer Price Index (CPI) data from 2013 to 2023. The analysis focuses on category-wise contributions, food inflation, the impact of COVID-19, and the role of global oil price fluctuations for the rural, Urban and rural+urban sectors.
 
 ## 📌 Objectives
 
